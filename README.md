@@ -62,5 +62,5 @@ make vagrant-destroy
 
 ## References
 
-https://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/
+https://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/  
 Kristen Jacobs, KubeCon North America: https://www.youtube.com/watch?v=6v_BDHIgOY8

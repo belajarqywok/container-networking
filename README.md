@@ -60,12 +60,7 @@ To destroy the VMs for all of the examples:
 make vagrant-destroy
 ```
 
-## Talks: 'Container Networking From Scratch' 
-
-* 2018-06 - Bristol Cloud Native: https://www.youtube.com/watch?v=mICllKv8JM4&t=1712s 
-* 2018-10 - Voxxed Days Bristol: https://voxxeddays.com/bristol/
-* 2018-12 - KubeCon North America: https://www.youtube.com/watch?v=6v_BDHIgOY8
-
 ## References
 
 https://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/
+Kristen Jacobs, KubeCon North America: https://www.youtube.com/watch?v=6v_BDHIgOY8

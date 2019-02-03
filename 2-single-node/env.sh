@@ -1,5 +1,5 @@
-CON1="con1"
-CON2="con2"
+CON1="kon1"
+CON2="kon2"
 NODE_IP="10.0.0.10"
 BRIDGE_IP="172.16.0.1"
 IP1="172.16.0.2"

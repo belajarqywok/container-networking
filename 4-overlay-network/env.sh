@@ -1,6 +1,6 @@
-CON1="con1"
-CON2="con2"
 if [ $(hostname) == "4-overlay-network-1" ]; then 
+    CON1="kon1"
+    CON2="kon2"
     NODE_IP="10.0.0.10"
     TUNNEL_IP="172.16.0.100"
     BRIDGE_IP="172.16.0.1"
@@ -12,6 +12,8 @@ if [ $(hostname) == "4-overlay-network-1" ]; then
     TO_IP1="172.16.1.2"
     TO_IP2="172.16.1.3"
 else
+    CON1="kon3"
+    CON2="kon4"
     NODE_IP="10.0.0.20"
     TUNNEL_IP="172.16.1.100"
     BRIDGE_IP="172.16.1.1"

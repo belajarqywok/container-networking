@@ -4,7 +4,7 @@ An example of creating multiple L2 networks, one on each of the nodes. Each netw
 2 network namespaces (containers), connected via a bridge, and have different subnets. The 
 containers are connected via static routing rules set on each of the nodes.
 
-![Diagram](./diagram.jpg)
+![Diagram](./diagram.png)
 
 Create the 2 VMs (3-multi-node-1 and 3-multi-node-2):
 
